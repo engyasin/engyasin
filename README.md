@@ -8,13 +8,14 @@
 - 🥅 2022 Goals: Learn Go , R and OpenAI gym.
 - ⚡ Fun fact: I have read all Dostoevsky novels in a record time (Crime and Punishment in 2 Days)
 
+---
 ### My Profiles:
 
 [![website](./img/32px-Google_Scholar_logo.svg.png)](https://scholar.google.com/citations?user=uOZtMvYAAAAJ&hl=de)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://de.linkedin.com/in/engyasinyousif)
 
-</br>
+---
 
 ### Languages and Tools:
 
@@ -34,10 +35,13 @@
 ---
 
 <summary>:zap: GitHub Stats</summary>
+</br>
 
 <img align="left" alt="engyasin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=engyasin&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&hide=commits" />
+</br>
 
 <summary>Langauges</summary>
+</br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engyasin&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&hide=html,CMake)](https://github.com/engyasin)
 
@@ -46,15 +50,19 @@
 <summary> My previous works </summary>
 
 - A python Package for Multi-object Tracking
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engyasin&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&repo=Offline_MOT)](https://github.com/engyasin/Offline_MOT)
 
 - An awesome resources for Mechatronic Engineering 
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engyasin&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&repo=awesome-mechatronics)](https://github.com/engyasin/awesome-mechatronics)
 
 - My Master Work
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engyasin&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&repo=EKF-MonoSLAM_for_3D-reconstruction)](https://github.com/engyasin/EKF-MonoSLAM_for_3D-reconstruction)
 
 - My Bachlour Project
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engyasin&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&repo=my_grad_project)](https://github.com/engyasin/my_grad_project)
 
 </details>

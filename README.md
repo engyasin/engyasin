@@ -1,9 +1,9 @@
 # Hi there 👋, my name is Yasin Yousif
 
-## *I'm a PhD candidate in Informatics Engineering in the field of traffic multi-agents modelling.*
+## *I'm a PhD candidate in Informatics Engineering in the field of multi-agents traffic modelling.*
 
 - 🔭 I'm currently working on something new, interesting and hopefully useful for many people. 
-- 🌱 I’m currently learning many things (too many! 🤣) mostly from acadmic papers.
+- 🌱 I’m currently learning many things (too many! 🤣) mostly from academic papers.
 - 👯 You can reach me on [linkedin](https://de.linkedin.com/in/engyasinyousif)  (for now)
 - 🥅 2022 Goals: Learn Go , R and OpenAI gym.
 - ⚡ Fun fact: I have read all Dostoevsky novels in a record time (Crime and Punishment in 2 Days)

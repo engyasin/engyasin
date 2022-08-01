@@ -2,6 +2,9 @@
 
 ## *I'm a PhD candidate in Informatics Engineering in the field of multi-agents traffic modelling.*
 
+![](https://komarev.com/ghpvc/?username=engyasin)
+
+
 - 🔭 I'm currently working on something new, interesting and hopefully useful for many people. 
 
 - 🌱 I’m currently learning many things mostly from academic papers.

@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning many things mostly from academic papers.
 - 👯 You can follow me on [Twitter](https://twitter.com/YasinYousif001) 
 - 🥅 2022 Goals: Learn Go , R and OpenAI gym.
-- ⚡ Random fact: I have read all Dostoevsky novels in a record time ([Crime and Punishment](https://en.wikipedia.org/wiki/Crime_and_Punishment) in 2 Days)
+
 
 ---
 ### My Profiles:

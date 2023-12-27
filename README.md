@@ -8,7 +8,9 @@
 - 🔭 I'm currently working on something new, interesting and hopefully useful for many people. 
 
 - 🌱 I’m currently learning many things mostly from academic papers.
-- 👯 You can follow me on [Twitter](https://twitter.com/YasinYousif001) 
+- 👯 You can follow me on [Twitter](https://twitter.com/YasinYousif001)
+
+
 P.S: Deep learning sucks
 
 

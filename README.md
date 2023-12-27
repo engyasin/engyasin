@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning many things mostly from academic papers.
 - 👯 You can follow me on [Twitter](https://twitter.com/YasinYousif001) 
-- 🥅 2022 Goals: Learn Go , R and OpenAI gym.
+P.S: Deep learning sucks
 
 
 ---

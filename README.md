@@ -11,7 +11,7 @@
 - 👯 You can follow me on [Twitter](https://twitter.com/YasinYousif001)
 
 
-P.S: Deep learning sucks
+P.S: [Deep learning sucks](https://engyasin.github.io/posts/why-deep-learning-sucks/)
 
 
 ---
